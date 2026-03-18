@@ -8,6 +8,7 @@ CARA NYALAIN:
 3. start xampp servicenya, nyalain bagian apache dan mysql. ingat harus sampai nyala (hijau)
 4. SETUP DATABASE DI PHPMYADMIN, buka browser terus ke http://localhost/phpmyadmin, click database, create baru lalu kasih nama dbnya db_gkjwsukolilo terus create. selanjutnya import, choose file database (ada di folder database project) lalu klik import.
 5. Buka koneksi.php di folder config project, lalu sesuaikan dengan local xampp default bagian ini:
+
 Host/Hostname: localhost (or 127.0.0.1)
 
 Database Name: db_gkjwsukolilo
