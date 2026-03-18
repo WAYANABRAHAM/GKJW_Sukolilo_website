@@ -1,0 +1,16 @@
+/* Add this to a new style.css file */
+:root {
+    /* Example: Changing the default primary blue to a deeper, warmer navy */
+    --bs-primary: #1e3d59;
+    --bs-primary-rgb: 30, 61, 89;
+}
+
+/* Give the navbar a slight gradient for a premium feel */
+.navbar {
+    background: linear-gradient(90deg, #1e3d59 0%, #2b547e 100%) !important;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #333333; /* Slightly softer than pure black */
+}

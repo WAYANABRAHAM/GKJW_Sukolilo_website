@@ -4,7 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GKJW Sukolilo</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
     <style>
         body { padding-top: 70px; } /* Memberi jarak agar konten tidak tertutup navbar */
         
@@ -37,10 +40,10 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Informasi</a>
                     <ul class="dropdown-menu shadow">
-                        <li><a class="dropdown-item py-2" href="https://maps.app.goo.gl/tiLDSWQDYtqJcWVp8" target="_blank">📍 Lokasi (Google Maps)</a></li>
-                        
-                        <li><a class="dropdown-item py-2" href="mailto:gkjwsukolilo@yahoo.co.id">📧 gkjwsukolilo@yahoo.co.id</a></li>
-                        
+                        <li><a class="dropdown-item py-2" href="https://maps.app.goo.gl/tiLDSWQDYtqJcWVp8"><i class="bi bi-geo-alt-fill text-danger me-2"></i> Lokasi (Google Maps)</a></li>
+
+                        <li><a class="dropdown-item py-2" href="mailto:gkjwsukolilo@yahoo.co.id"><i class="bi bi-envelope-fill text-primary me-2"></i> gkjwsukolilo@yahoo.co.id</a></li>
+
                         <li><a class="dropdown-item py-2" href="tel:+6281249827510">📞 (031) 5915811 / 081249827510</a></li>
                         
                         <li><hr class="dropdown-divider"></li>
