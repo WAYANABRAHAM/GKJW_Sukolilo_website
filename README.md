@@ -10,9 +10,10 @@ CARA NYALAIN:
 5. Buka koneksi.php di folder config project, lalu sesuaikan dengan local xampp default bagian ini:
 Host/Hostname: localhost (or 127.0.0.1)
 
-Database Name: (The name you created in Step 3)
+Database Name: db_gkjwsukolilo
 
 Username: root
 
-Password: (Leave this completely blank, as XAMPP's default root user has no password)
+Password: (biarin aja kosong karena xampp default gaada passwordnya)
+
 5. terakhir Run the Project. tinggal buka di browser http://localhost/nama-foldernya
